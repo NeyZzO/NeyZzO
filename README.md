@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eliott</h1>
 <h3 align="center">A student developer from France!</h3>
 
-<style>
-  a {
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: none;
-  }
-  
-</style>
-
 <ul style="list-style: '➥'">
   <li>🔭 I’m currently working on <a href="https://hastrarp.fr/">HastraRP</a></li>
   
