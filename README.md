@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![Instagram](https://img.shields.io/badge/Instagram-D1435E?style=for-the-badge&logo=instagram&logoColor=white)
+![instagram](https://img.shields.io/badge/Instagram-D1435E?style=for-the-badge&logo=instagram&logoColor=white)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
