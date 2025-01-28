@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eliott</h1>
 <h3 align="center">A student developer from France!</h3>
 
-<ul style="list-style: '➥'">
-  <li>🔭 I’m currently working on <a href="https://hastrarp.fr/">HastraRP</a></li>
-  
+<ul style="list-style: '➥'">  
   <li>🌱 I’m currently learning <strong>C++, Rust, React</strong></li>
   
   <li>👨‍💻 All of my projects are available on <a href="https://github.com/NeyZzO"> GitHub</a></li>
   
   <li>💬 Ask me about <strong>React, JavaScript, NodeJS, FullStack Web Development</strong></li>
-  
-  <li>⚡ Fun fact <strong>I hate peas</strong></li>
-</ul>
+  </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/eliottdago"><img src="https://img.shields.io/badge/Instagram-D1435E?style=for-the-badge&logo=instagram&logoColor=white" alt="" /></a>
